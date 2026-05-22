@@ -113,19 +113,114 @@ Database + AI APIs + Internal College Services
 
 ---
 
-# Sprint 1 Goals
+# Sprint Planning
 
-## Analysis / UX Planning / QA / Documentation
+---
+
+# Sprint 1 / Week 1 — Project Scope + Setup
+
+## Goal
+Understand the project, define the scope, create the repository, prepare the backlog, and confirm everyone’s role.
+
+---
+
+## Dhruva — Team Lead / Scrum Lead / Integration
+- Create the team plan
+- Assign roles
+- Create the Scrum board
+- Define Git branch rules
+- Prepare the backlog
+- Schedule daily updates
+
+---
+
+## Nandini — Frontend / UI / UX
+- Prepare rough wireframes for the login page
+- Prepare chatbot page layout
+- Prepare document search layout
+- Prepare appointment form layout
+
+---
+
+## Dhruv — Backend API
+- Define backend architecture
+- List required API routes
+- Prepare server structure plan
+
+---
+
+## Raul — AI / NLP / Authentication / Knowledge Base
+- Define chatbot use cases
+- Define expected response types
+- Prepare knowledge base categories
+
+---
+
+## Kyle — Analysis / UX Planning / QA / Documentation
 - Write project purpose
 - Define target users
-- Write system requirements
+- Write requirements
 - Prepare initial README/report structure
 
 ---
 
-# Sprint 2 Goals
+## Abhi — Python Equivalent Version
+- Prepare a Python project plan with the same features as the main project
 
-## Analysis / UX Planning / QA / Documentation
+---
+
+## Sprint 1 Deliverable
+- Project charter
+- Product backlog
+- Wireframes
+- Architecture plan
+- Git repository
+- Validated planning
+
+---
+
+# Sprint 2 / Week 2 — Functional + Technical Design
+
+## Goal
+Finalize the design and create the basic project foundation.
+
+---
+
+## Dhruva — Team Lead / Scrum Lead / Integration
+- Validate technical choices
+- Check everyone’s progress
+- Confirm frontend/backend/AI structure matches project requirements
+- Monitor the Scrum board
+- Update task status
+
+---
+
+## Nandini — Frontend / UI / UX
+- Create React page/component structure
+- Create login page structure
+- Create sidebar structure
+- Create chat area structure
+- Create document search structure
+- Create appointment form structure
+
+---
+
+## Dhruv — Backend API
+- Set up Express backend
+- Create basic server
+- Create `/api/health` route
+- Prepare route files
+
+---
+
+## Raul — AI / NLP / Authentication / Knowledge Base
+- Prepare first prompt logic
+- Define JSON knowledge structure
+- Plan role-based access
+
+---
+
+## Kyle — Analysis / UX Planning / QA / Documentation
 - Finalize UX flow
 - Document architecture
 - Prepare test criteria for:
@@ -136,25 +231,18 @@ Database + AI APIs + Internal College Services
 
 ---
 
-# UX/UI Objectives
-
-The interface should:
-- remain simple and intuitive;
-- provide fast interactions;
-- ensure accessibility;
-- and centralize information through conversational UX.
+## Abhi — Python Equivalent Version
+- Create Python folder structure
+- Prepare basic app screen/API plan
 
 ---
 
-# Project Status
-
-Current Phase:
-- Sprint 1 — Planning & Documentation
-
-Progress:
-- Requirements analysis completed
-- Initial UX planning completed
-- Documentation structure completed
+## Sprint 2 Deliverable
+- Frontend skeleton
+- Backend server running
+- API route plan
+- Chatbot flow
+- Initial technical documentation
 
 ---
 
